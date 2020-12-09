@@ -1,4 +1,3 @@
-The data was prepared by filtering out the data and adding calculated fields that were relevant to analyzing the data. Furthermore, the data was split based on the borough. 
+The data was prepared by filtering out the data and adding calculated fields that were relevant to analyzing the data. Furthermore, the data was split based on each borough. 
 
-The file "DataPrep.tfl" includes the data preparing process. The folder "Prepared CSV Files" are the CSV files or data sources for each borough which was used for visualization and analusis in Tableau Desktop
-
+The file "DataPrep.tfl" includes the data preparing process. The folder "Prepared CSV Files" are the CSV files or data sources for each borough which was used for visualization and analysis in Tableau Desktop.
