@@ -1,1 +1,5 @@
+# Tableau Data Prep
+The data was prepared by filtering out the data and adding calculated fields that were relevant to analyzing the data. Furthermore, the data was split based on the borough. 
+
+The file Data.tfl includes the data preparing process. The 
 
