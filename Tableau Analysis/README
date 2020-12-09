@@ -1,5 +1,1 @@
-The data was analyzed based on the arrests and location in relation to each factor. The "Borough PowerPoint" files contains the powerpoint slides for the analysis on each borough. The 
-
-The data was prepared by filtering out the data and adding calculated fields that were relevant to analyzing the data. Furthermore, the data was split based on each borough. 
-
-The file "DataPrep.tfl" includes the data preparing process. The folder "Prepared CSV Files" are the CSV files or data sources for each borough which was used for visualization and analysis in Tableau Desktop.
+The data was analyzed based on the arrests and location in relation to each factor. The "Borough PowerPoint" files contain the powerpoint slides for the analysis on each borough. The "Final Analysis Story" files contain the Tableau analysis stories for each borough in powerpoint form.
